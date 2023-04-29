@@ -1,0 +1,46 @@
+.wrapper{
+    min-height: calc(100vh - 72px);
+}
+
+.main-footer{
+    background-color: #212529;
+    color: #fefefe;
+    padding: 24px 0;
+}
+.form-content-section {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 100px 0;
+    font-weight: 450;
+    font-size: x-large;
+}
+.form-group{
+    padding-bottom: 30px;
+    
+}
+.whole{
+    max-width: 750px;
+    margin: 0 auto;
+    font-weight: 450;
+    font-size: x-large;
+    margin-top: 150px;
+}
+
+.divide{
+    display: flex;
+    font-weight: 450;
+    justify-content: center;
+    
+}
+.bg1{
+    padding-bottom: 20px;
+}
+.part1{
+    flex:1
+    
+}
+
+.part2{
+    flex:1
+    
+}
